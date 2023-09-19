@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956441722130",
+    "project_id": "hikeproject-300e4",
+    "storage_bucket": "hikeproject-300e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956441722130:android:bee63b19ecb302eca947cb",
+        "android_client_info": {
+          "package_name": "com.example.hook_up_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956441722130-oec2im0tgobun41jlcou9ndm3ddgkvts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3UemUOY7Ji8x2IBTMcsQrfem8VyXwk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956441722130-oec2im0tgobun41jlcou9ndm3ddgkvts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
